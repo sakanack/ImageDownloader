@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6902978557551298/4544704165</string>
+    <string name="input_hint">URLを入力してください</string>
+    <string name="downloading">ダウンロード中...</string>
+    <string name="waiting">待機中</string>
+    <string name="cancelled">キャンセルされました。</string>
+    <string name="complete">ダウンロード完了</string>
+    <string name="complete_massage">ダウンロードが完了しました。</string>
+    <string name="invalid_url_massage">無効なURLです。</string>
+    <string name="no_image_massage">取得できる画像がありません。</string>
+    <string name="error_massage">エラーが発生しました。</string>
+    <string name="request_permission_massage">アプリケーションの利用にはファイルアクセスの許諾が必要です。</string>
+
+</resources>

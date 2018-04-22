@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6902978557551298/4544704165</string>
+    <string name="input_hint">Enter the URL</string>
+    <string name="downloading">Downloading...</string>
+    <string name="waiting">Waiting for download</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="complete">Completed</string>
+    <string name="complete_massage">Download was completed</string>
+    <string name="invalid_url_massage">Invalid URL</string>
+    <string name="no_image_massage">There is no available image</string>
+    <string name="error_massage">Error occurred</string>
+    <string name="request_permission_massage"> Permission is required of file access to use application </string>
+</resources>

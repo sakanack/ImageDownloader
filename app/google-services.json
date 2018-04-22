@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133281667220",
+    "firebase_url": "https://admob-app-id-3067970965.firebaseio.com",
+    "project_id": "admob-app-id-3067970965",
+    "storage_bucket": "admob-app-id-3067970965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133281667220:android:0bd5362d75cbc735",
+        "android_client_info": {
+          "package_name": "com.ImageDownloader.hara.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133281667220-nit4a8id48t2n9hcr42nheiujhl8rpng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lgEBn6gtYq8zNCox7Gk0GZ3MMScsu1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
